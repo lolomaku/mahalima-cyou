@@ -1,0 +1,38 @@
+[
+  {
+    "id": "pin-001",
+    "lat": 14.5995,
+    "lng": 120.9842,
+    "title": "PAGTATAG! Concert Manila",
+    "category": "Concert",
+    "social_url": "https://twitter.com/SB19Official/status/1234567890123456789",
+    "platform": "twitter"
+  },
+  {
+    "id": "pin-002",
+    "lat": 35.6762,
+    "lng": 139.6503,
+    "title": "A'TIN Meetup Tokyo",
+    "category": "Fan Gathering",
+    "social_url": "https://www.tiktok.com/@user/video/7234567890123456789",
+    "platform": "tiktok"
+  },
+  {
+    "id": "pin-003",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "title": "SB19 Billboard Sighting, Sunset Blvd",
+    "category": "Billboard Sighting",
+    "social_url": "https://www.instagram.com/p/C1a2B3c4D5e/",
+    "platform": "instagram"
+  },
+  {
+    "id": "pin-004",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "title": "London Stream Party Watch-Along",
+    "category": "Stream Party",
+    "social_url": "https://www.facebook.com/SB19Official/videos/1234567890123456",
+    "platform": "facebook"
+  }
+]
