@@ -1,0 +1,1 @@
+import{STORAGE_KEY}from"./config.js";export function loadCustomPins(){try{const t=localStorage.getItem(STORAGE_KEY);return t?JSON.parse(t):[]}catch{return[]}}export function saveCustomPins(t){localStorage.setItem(STORAGE_KEY,JSON.stringify(t))}

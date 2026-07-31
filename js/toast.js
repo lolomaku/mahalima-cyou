@@ -1,0 +1,1 @@
+let toastTimer=null;export function showToast(t){const e=document.getElementById("toast");e.textContent=t,e.classList.add("is-visible"),clearTimeout(toastTimer),toastTimer=setTimeout(()=>e.classList.remove("is-visible"),2600)}

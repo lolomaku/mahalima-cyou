@@ -1,0 +1,27 @@
+{
+  "mainCoder": {
+    "name": "lolomaku",
+    "role": "Main Developer & Designer",
+    "blurb": "Built and maintains mahalima.cyou from the ground up.",
+    "avatar": "assets/avatar.png",
+    "socials": {
+      "twitter": "https://twitter.com/lolomaku",
+      "facebook": "https://facebook.com/lolomaku.art",
+      "instagram": "https://instagram.com/lolomaku.art",
+      "tiktok": "https://tiktok.com/@lolomaku",
+      "website": "https://lolomaku.art"
+    }
+  },
+  "fanbases": [
+    {
+      "name": "A'TIN Global",
+      "socials": {
+       "twitter": "https://twitter.com/lolomaku",
+      "facebook": "https://facebook.com/lolomaku.art",
+      "instagram": "https://instagram.com/lolomaku.art",
+      "tiktok": "https://tiktok.com/@lolomaku",
+      "website": "https://lolomaku.art"
+      }
+    }
+  ]
+}
